@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/testportofolio/static/css/main.55318dd1.css",
+    "main.js": "/testportofolio/static/js/main.5523c45a.js",
+    "static/media/profile.png": "/testportofolio/static/media/profile.7b6790d70ce02053581d.png",
+    "static/media/csi.png": "/testportofolio/static/media/csi.3a42a3b1ac3209f61366.png",
+    "static/media/project1.jpg": "/testportofolio/static/media/project1.34152f1908d0f2ba1edb.jpg",
+    "static/media/project3.png": "/testportofolio/static/media/project3.396722b170993b61ab7f.png",
+    "static/media/2.png": "/testportofolio/static/media/2.29b3c1d18ac0a6cc1184.png",
+    "static/media/computerstudy.png": "/testportofolio/static/media/computerstudy.5b16ebad1e4b4be64822.png",
+    "static/media/instagram.png": "/testportofolio/static/media/instagram.602b38d72acd91a28d87.png",
+    "static/media/globe.png": "/testportofolio/static/media/globe.9f20debcd8728dff4ffc.png",
+    "static/media/call-image.png": "/testportofolio/static/media/call-image.57b2ac261cab58854a32.png",
+    "static/media/email-image.png": "/testportofolio/static/media/email-image.f48092886ae758f6c26e.png",
+    "static/media/whatsapp.png": "/testportofolio/static/media/whatsapp.5b6881c80930567a923a.png",
+    "static/media/github.png": "/testportofolio/static/media/github.945f16c8df840471c7db.png",
+    "static/media/project4.avif": "/testportofolio/static/media/project4.ccf3ae965e22818031dc.avif",
+    "static/media/linkedin.png": "/testportofolio/static/media/linkedin.b1d244a3ab09d745db0e.png",
+    "static/media/mvlogo.jpg": "/testportofolio/static/media/mvlogo.b37111efb3cbfb154ab8.jpg",
+    "index.html": "/testportofolio/index.html",
+    "main.55318dd1.css.map": "/testportofolio/static/css/main.55318dd1.css.map",
+    "main.5523c45a.js.map": "/testportofolio/static/js/main.5523c45a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55318dd1.css",
+    "static/js/main.5523c45a.js"
+  ]
+}
