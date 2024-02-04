@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portotest/static/css/main.ebe749d8.css",
-    "main.js": "/portotest/static/js/main.9b73220b.js",
+    "main.js": "/portotest/static/js/main.bc25efaf.js",
     "static/media/profile.png": "/portotest/static/media/profile.7b6790d70ce02053581d.png",
     "static/media/csi.png": "/portotest/static/media/csi.3a42a3b1ac3209f61366.png",
     "static/media/project1.jpg": "/portotest/static/media/project1.34152f1908d0f2ba1edb.jpg",
@@ -19,10 +19,10 @@
     "static/media/mvlogo.jpg": "/portotest/static/media/mvlogo.b37111efb3cbfb154ab8.jpg",
     "index.html": "/portotest/index.html",
     "main.ebe749d8.css.map": "/portotest/static/css/main.ebe749d8.css.map",
-    "main.9b73220b.js.map": "/portotest/static/js/main.9b73220b.js.map"
+    "main.bc25efaf.js.map": "/portotest/static/js/main.bc25efaf.js.map"
   },
   "entrypoints": [
     "static/css/main.ebe749d8.css",
-    "static/js/main.9b73220b.js"
+    "static/js/main.bc25efaf.js"
   ]
 }
